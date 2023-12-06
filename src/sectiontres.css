@@ -1,0 +1,24 @@
+img{
+    transition: all 200ms;
+}
+img:hover{
+    transform: scale(1.1);
+    
+}
+.icono-1{
+    transition: all 200ms;
+}
+.icono-1:hover{
+    transform: scale(1.1);
+    
+}
+.icono-2{
+    transition: all 200ms;
+}
+.icono-2:hover{
+    transform: scale(1.1);
+    
+}
+.title{
+    color: #314E7C;
+}
